@@ -1,7 +1,7 @@
 ![Andi Hartono](img/header.png)
 <!-- <h2 align="left">Hi 👋! I'm Andi Hartono</h2> -->
 
----
+## 📊 Github Stats:
 
 <div align="center">
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=theandys&theme=radical&hide_border=false&include_all_commits=true&count_private=true&hide_rank=false&show_icons=true&disable_animations=false&locale=en" height="150" alt="stats graph"  />   -->
@@ -10,7 +10,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=theandys&theme=radical&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
----
 
 ## ✨ Skills and Tools
 
@@ -90,19 +89,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="30" alt="jira logo"  />
 </div>
 
----
-
 ## ✨ Contributions 
 
 <img src="https://raw.githubusercontent.com/theandys/theandys/output/snake.svg" alt="Snake animation" />
 
 ###
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/theandys/theandys/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/theandys/theandys/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/theandys/theandys/output/pacman-contribution-graph.svg">
-</picture>
+</picture> -->
 
 
 <!-- #### 🌐 Socials:
