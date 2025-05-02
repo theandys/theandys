@@ -1,11 +1,19 @@
-<h2 align="left">Hi 👋! I'm Andi Hartono</h2>
+![Andi Hartono](img/header.png)
+
+#### 📊 Github Stats:
+![](https://github-readme-stats.vercel.app/api?username=theandys&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=theandys&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=theandys&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=theandys&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=theandys&theme=radical&hide_border=false&include_all_commits=true&count_private=true&hide_rank=false&show_icons=true&disable_animations=false&locale=en" height="150" alt="stats graph"  />
+  
   <img src="https://streak-stats.demolab.com?user=theandys&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=theandys&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=false" height="150" alt="languages graph"  />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=theandys&theme=radical&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
